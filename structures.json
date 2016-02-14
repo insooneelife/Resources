@@ -5,7 +5,7 @@
 "y": 884.726,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -13,7 +13,7 @@
 "y": 1475.34,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -21,7 +21,7 @@
 "y": 786.947,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -29,7 +29,7 @@
 "y": 1165.89,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -37,7 +37,7 @@
 "y": 1238.82,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -45,7 +45,7 @@
 "y": 1592.87,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -53,7 +53,7 @@
 "y": 1741.31,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -61,7 +61,7 @@
 "y": 610.259,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -69,7 +69,7 @@
 "y": 1623.51,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -77,7 +77,7 @@
 "y": 1927.27,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -85,7 +85,7 @@
 "y": 1754.4,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -93,7 +93,7 @@
 "y": 469.929,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -101,7 +101,7 @@
 "y": 1610.36,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -109,7 +109,7 @@
 "y": 1314.32,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -117,7 +117,7 @@
 "y": 2093.46,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -125,7 +125,7 @@
 "y": 2141.9,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -133,7 +133,7 @@
 "y": 731.977,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -141,7 +141,7 @@
 "y": 1419.18,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -149,7 +149,7 @@
 "y": 648.488,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -157,7 +157,7 @@
 "y": 1682.18,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -165,7 +165,7 @@
 "y": 638.95,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -173,7 +173,7 @@
 "y": 1900.98,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -181,7 +181,7 @@
 "y": 2186.29,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -189,7 +189,7 @@
 "y": 397.775,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -197,7 +197,7 @@
 "y": 2169.38,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -205,7 +205,7 @@
 "y": 1115.65,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -213,7 +213,7 @@
 "y": 546.472,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -221,7 +221,7 @@
 "y": 508.133,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -229,7 +229,7 @@
 "y": 427.718,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -237,7 +237,7 @@
 "y": 1570.54,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -245,7 +245,7 @@
 "y": 391.781,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -253,7 +253,7 @@
 "y": 1130.54,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -261,7 +261,7 @@
 "y": 299.919,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -269,7 +269,7 @@
 "y": 2167.54,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -277,7 +277,7 @@
 "y": 2076.86,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -285,7 +285,7 @@
 "y": 1500.04,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -293,7 +293,7 @@
 "y": 1222.83,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -301,7 +301,7 @@
 "y": 1811.53,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -309,7 +309,7 @@
 "y": 1367.78,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -317,7 +317,7 @@
 "y": 1358.97,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -325,7 +325,7 @@
 "y": 2144.56,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -333,7 +333,7 @@
 "y": 245.775,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -341,7 +341,7 @@
 "y": 1049.89,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -349,7 +349,7 @@
 "y": 1815.28,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -357,7 +357,7 @@
 "y": 397.577,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -365,7 +365,7 @@
 "y": 1932.36,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "structure1",
@@ -373,7 +373,7 @@
 "y": 910.269,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -381,7 +381,7 @@
 "y": 292.057,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -389,7 +389,7 @@
 "y": 257.536,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -397,7 +397,7 @@
 "y": 950.045,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -405,7 +405,7 @@
 "y": 801.036,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 },
 {
 "name": "desk1",
@@ -413,6 +413,6 @@
 "y": 2001.13,
 "scale_x": 1,
 "scale_y": 1,
-"radius": 40
+"radius": 100
 }
 ]

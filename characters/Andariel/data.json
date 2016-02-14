@@ -1,5 +1,6 @@
 {
   "name": "Andariel",
+  "directions": 8,
   "actions": {
     "Neutral": 
     { "frameSize": 16 },

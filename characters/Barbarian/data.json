@@ -1,0 +1,22 @@
+{
+  "name": "Barbarian",
+  "directions": 16,
+  "actions": {
+    "Neutral": 
+    { "frameSize": 16 },
+    "Attack1": 
+    { "frameSize": 16 },
+    "Attack2": 
+    { "frameSize": 16 },
+    "Casting": 
+    { "frameSize": 14},
+    "GetHit": 
+    { "frameSize": 5 },
+    "Walk": 
+    { "frameSize": 8 },
+    "Run": 
+    { "frameSize": 8 },
+    "Special": 
+    { "frameSize": 12 }
+  }
+}

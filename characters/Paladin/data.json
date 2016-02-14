@@ -1,0 +1,16 @@
+{
+  "name": "Paladin",
+  "directions": 16,
+  "actions": {
+    "Neutral": 
+    { "frameSize": 8 },
+    "Attack1": 
+    { "frameSize": 15 },
+    "Attack2": 
+    { "frameSize": 15 },
+    "GetHit": 
+    { "frameSize": 5 },
+    "Walk": 
+    { "frameSize": 10 }
+  }
+}

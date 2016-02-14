@@ -1,0 +1,18 @@
+{
+  "name": "Frog",
+  "directions": 8,
+  "actions": {
+    "Neutral": 
+    { "frameSize": 7 },
+    "Death": 
+    { "frameSize": 14 },
+    "Attack1": 
+    { "frameSize": 15 },
+    "GetHit": 
+    { "frameSize": 4 },
+    "Walk": 
+    { "frameSize": 16 },
+    "Dead": 
+    { "frameSize": 1 }
+  }
+}

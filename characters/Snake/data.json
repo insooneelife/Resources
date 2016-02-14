@@ -1,0 +1,18 @@
+{
+  "name": "Snake",
+  "directions": 8,
+  "actions": {
+    "Neutral": 
+    { "frameSize": 8 },
+    "Death": 
+    { "frameSize": 19 },
+    "Attack1": 
+    { "frameSize": 14 },
+    "GetHit": 
+    { "frameSize": 5 },
+    "Walk": 
+    { "frameSize": 16 },
+    "Dead": 
+    { "frameSize": 1 }
+  }
+}
