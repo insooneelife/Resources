@@ -1,6 +1,6 @@
 {
   "int": {
-    "NumAgents": 15,
+    "NumAgents": 20,
     "NumObstacles": 80,
     "num_cellsX": 5,
     "num_cellsY": 5,
@@ -11,7 +11,7 @@
     "SteeringForce": 2.0,
     "MaxSpeed": 200.0,
     "EntityMass": 0.15,
-    "EntityRadius": 40.0,
+    "EntityRadius": 25.0,
     "SeparationWeight": 1.0,
     "AlignmentWeight": 0.50,
     "CohesionWeight": 2.0,
@@ -34,11 +34,11 @@
     "WanderDist": 2.0,
     "WanderJitterPerSec": 80.0,
     "WaypointSeekDist": 20.0,
-    "StartViewX": 0.0,
-    "StartViewY": 0.0,
+    "StartViewX": 550.0,
+    "StartViewY": 550.0,
     "CameraDistance": 500.0,
     "GameSpeedInterval": 0.05,
-    "BorderSize": 100.0,
+    "BorderSize": 200.0,
     "MouseMoveVelocity": 25.0,
     "MinObstacleRadius": 100.0,
     "MaxObstacleRadius": 100.0,
@@ -52,18 +52,18 @@
     "LightScale": 4880
   },
   "bool": {
-    "RenderBoundingBox": true,
-    "RenderBoundingCircle": true,
-    "RenderShadow": true,
+    "RenderBoundingBox": false,
+    "RenderBoundingCircle": false,
+    "RenderShadow": false,
     "RenderLabel": true,
-    "RenderMainLabel": false,
+    "RenderMainLabel": true,
     "RenderGoalLabel": false,
     "RenderMemoryLabel": false,
     "PenetrationConstraint": false,
     "CellSpaceOn": true,
-    "RenderCellBox": true,
+    "RenderCellBox": false,
     "RenderCellLabel": false,
-    "RenderGraph": true,
+    "RenderGraph": false,
     "RenderPathLine": true
   },
   "string": {
@@ -72,6 +72,6 @@
     "WallFolderName": "walls",
     "FontFolderName": "fonts",
     "FontName": "Diablo",
-    "DefaultCharacter": "Barbarian"
+    "DefaultCharacter": "Andariel"
   }
 }
