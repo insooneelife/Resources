@@ -3,20 +3,20 @@
   "directions": 16,
   "actions": {
     "Neutral": 
-    { "frameSize": 16 },
+    { "frameSize": 16, "marginX": 0, "marginY": 41 },
     "Attack1": 
-    { "frameSize": 16 },
+    { "frameSize": 16, "marginX": 0, "marginY": 28 },
     "Attack2": 
-    { "frameSize": 16 },
+    { "frameSize": 16, "marginX": 0, "marginY": 35 },
     "Casting": 
-    { "frameSize": 14},
+    { "frameSize": 14, "marginX": 0, "marginY": 48},
     "GetHit": 
-    { "frameSize": 5 },
+    { "frameSize": 5, "marginX": 0, "marginY": 43 },
     "Walk": 
-    { "frameSize": 8 },
+    { "frameSize": 8, "marginX": 0, "marginY": 40 },
     "Run": 
-    { "frameSize": 8 },
+    { "frameSize": 8, "marginX": 0, "marginY": 46},
     "Special": 
-    { "frameSize": 12 }
+    { "frameSize": 12, "marginX": 0, "marginY": 38 }
   }
 }

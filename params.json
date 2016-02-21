@@ -1,6 +1,6 @@
 {
   "int": {
-    "NumAgents": 20,
+    "NumAgents": 1,
     "NumObstacles": 80,
     "num_cellsX": 5,
     "num_cellsY": 5,
@@ -47,23 +47,23 @@
     "FrameSizeX": 1500.0,
     "FrameSizeY": 750.0,
     "CharacterBaseAttackRange": 100.0,
-    "LightX": 4880,
+    "LightX": 0,
     "LightY": 9760,
     "LightScale": 4880
   },
   "bool": {
     "RenderBoundingBox": false,
-    "RenderBoundingCircle": false,
-    "RenderShadow": false,
+    "RenderBoundingCircle": true,
+    "RenderShadow": true,
     "RenderLabel": true,
     "RenderMainLabel": true,
     "RenderGoalLabel": false,
     "RenderMemoryLabel": false,
     "PenetrationConstraint": false,
     "CellSpaceOn": true,
-    "RenderCellBox": false,
+    "RenderCellBox": true,
     "RenderCellLabel": false,
-    "RenderGraph": false,
+    "RenderGraph": true,
     "RenderPathLine": true
   },
   "string": {

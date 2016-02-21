@@ -3,18 +3,18 @@
   "directions": 8,
   "actions": {
     "Neutral": 
-    { "frameSize": 16 },
+    { "frameSize": 16, "marginX": 0, "marginY": 72  },
     "Death": 
-    { "frameSize": 23 },
+    { "frameSize": 23, "marginX": 0, "marginY": 72  },
     "Attack1": 
-    { "frameSize": 16 },
+    { "frameSize": 16, "marginX": 0, "marginY": 62  },
     "Casting": 
-    { "frameSize": 18 },
+    { "frameSize": 18, "marginX": 0, "marginY": 72  },
     "GetHit": 
-    { "frameSize": 6 },
+    { "frameSize": 6,  "marginX": 0, "marginY": 77  },
     "Walk": 
-    { "frameSize": 12 },
+    { "frameSize": 12, "marginX": 0, "marginY": 68  },
     "Dead": 
-    { "frameSize": 1 }
+    { "frameSize": 1,  "marginX": 0, "marginY": 0  }
   }
 }
